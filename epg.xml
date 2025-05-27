@@ -28015,17 +28015,7 @@
 <programme start="20250528213900 +0000" stop="20250528215600 +0000" channel="zonadazn.it"><title>Marcello Lippi - Luomo della storia</title><desc>Luomo della storia - Il Mondiale...</desc></programme>
 <programme start="20250528215600 +0000" stop="20250528230000 +0000" channel="zonadazn.it"><title>Bordocam Juventus - Atalanta 2024/25</title><desc>Atalanta 2024/25 - Attraverso...</desc></programme>
 <programme start="20250528230000 +0000" stop="20250529040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250527000000 +0200" stop="20250527175500 +0200" channel="879">
-    <title lang="it">Inizierà alle 17:55.</title>
-    <desc lang="it">Serie A Playoffs | Quarterfinals | Game 5.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250527175500 +0200" stop="20250527195500 +0200" channel="879">
-    <title lang="it">Serie A Playoffs | Quarterfinals | Game 5</title>
-    <desc lang="it">Serie A Playoffs | Quarterfinals | Game 5 trasmesso in diretta.</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <programme start="20250527000000 +0200" stop="20250527203000 +0200" channel="882">
+<programme start="20250527000000 +0200" stop="20250527203000 +0200" channel="882">
     <title lang="it">Inizierà alle 20:30.</title>
     <desc lang="it">Serie A2 : Rimini vs Forli.</desc>
     <category lang="it">Annuncio</category>
