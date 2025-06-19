@@ -30734,35 +30734,125 @@
 <programme start="20250620214300 +0000" stop="20250620220100 +0000" channel="zonadazn.it"><title>Juventus - Napoli Top 50 Gol</title><desc>Napoli Top 50 Gol - Guarda i 50 gol...</desc></programme>
 <programme start="20250620220100 +0000" stop="20250620230000 +0000" channel="zonadazn.it"><title>Top 50 Gol - Derby di Milano</title><desc>Derby di Milano - I gol piu belli...</desc></programme>
 <programme start="20250620230000 +0000" stop="20250621040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250619000000 +0200" stop="20250619210000 +0200" channel="5">
-    <title lang="it">Inizierà alle 21:00.</title>
-    <desc lang="it">FIFA Club World Cup : Inter Miami vs Porto.</desc>
+<programme start="20250620000000 +0200" stop="20250620200000 +0200" channel="6">
+    <title lang="it">Inizierà alle 20:00.</title>
+    <desc lang="it">FIFA Club World Cup : Flamengo vs Chelsea.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250619210000 +0200" stop="20250619230000 +0200" channel="5">
-    <title lang="it">FIFA Club World Cup : Inter Miami vs Porto</title>
-    <desc lang="it">FIFA Club World Cup : Inter Miami vs Porto trasmesso in diretta.</desc>
+  <programme start="20250620200000 +0200" stop="20250620220000 +0200" channel="6">
+    <title lang="it">FIFA Club World Cup : Flamengo vs Chelsea</title>
+    <desc lang="it">FIFA Club World Cup : Flamengo vs Chelsea trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250619000000 +0200" stop="20250619203000 +0200" channel="879">
+  <programme start="20250620000000 +0200" stop="20250620203000 +0200" channel="69">
     <title lang="it">Inizierà alle 20:30.</title>
-    <desc lang="it">Lega A : Brescia vs Virtus Bologna.</desc>
+    <desc lang="it">Italy - Serie B : Salernitana vs Sampdoria.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250619203000 +0200" stop="20250619223000 +0200" channel="879">
-    <title lang="it">Lega A : Brescia vs Virtus Bologna</title>
-    <desc lang="it">Lega A : Brescia vs Virtus Bologna trasmesso in diretta.</desc>
-    <category lang="it">Basketball</category>
+  <programme start="20250620203000 +0200" stop="20250620223000 +0200" channel="69">
+    <title lang="it">Italy - Serie B : Salernitana vs Sampdoria</title>
+    <desc lang="it">Italy - Serie B : Salernitana vs Sampdoria trasmesso in diretta.</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250619000000 +0200" stop="20250619210000 +0200" channel="882">
-    <title lang="it">Inizierà alle 21:00.</title>
-    <desc lang="it">Eurobasket Women : Italy W vs Slovenia W.</desc>
+  <programme start="20250620000000 +0200" stop="20250620090000 +0200" channel="575">
+    <title lang="it">Inizierà alle 09:00.</title>
+    <desc lang="it">MotoGP : Italian Grand Prix Free Practice 1.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20250619210000 +0200" stop="20250619230000 +0200" channel="882">
-    <title lang="it">Eurobasket Women : Italy W vs Slovenia W</title>
-    <desc lang="it">Eurobasket Women : Italy W vs Slovenia W trasmesso in diretta.</desc>
-    <category lang="it">Basketball</category>
+  <programme start="20250620090000 +0200" stop="20250620110000 +0200" channel="575">
+    <title lang="it">MotoGP : Italian Grand Prix Free Practice 1</title>
+    <desc lang="it">MotoGP : Italian Grand Prix Free Practice 1 trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250620000000 +0200" stop="20250620090000 +0200" channel="575">
+    <title lang="it">Inizierà alle 09:00.</title>
+    <desc lang="it">Moto3 : Italian Grand Prix Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250620090000 +0200" stop="20250620110000 +0200" channel="575">
+    <title lang="it">Moto3 : Italian Grand Prix Free Practice 1</title>
+    <desc lang="it">Moto3 : Italian Grand Prix Free Practice 1 trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250620000000 +0200" stop="20250620094500 +0200" channel="575">
+    <title lang="it">Inizierà alle 09:45.</title>
+    <desc lang="it">Moto2 : Italian Grand Prix Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250620094500 +0200" stop="20250620114500 +0200" channel="575">
+    <title lang="it">Moto2 : Italian Grand Prix Free Practice 1</title>
+    <desc lang="it">Moto2 : Italian Grand Prix Free Practice 1 trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250620114500 +0200" stop="20250620131000 +0200" channel="575">
+    <title lang="it">Inizierà alle 13:10.</title>
+    <desc lang="it">Moto3 : Italian Grand Prix Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250620131000 +0200" stop="20250620151000 +0200" channel="575">
+    <title lang="it">Moto3 : Italian Grand Prix Practice 1</title>
+    <desc lang="it">Moto3 : Italian Grand Prix Practice 1 trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250620000000 +0200" stop="20250620131500 +0200" channel="575">
+    <title lang="it">Inizierà alle 13:15.</title>
+    <desc lang="it">MotoGP : Italian Grand Prix Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250620131500 +0200" stop="20250620151500 +0200" channel="575">
+    <title lang="it">MotoGP : Italian Grand Prix Practice 1</title>
+    <desc lang="it">MotoGP : Italian Grand Prix Practice 1 trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250620000000 +0200" stop="20250620140000 +0200" channel="575">
+    <title lang="it">Inizierà alle 14:00.</title>
+    <desc lang="it">Moto2 : Italian Grand Prix Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250620140000 +0200" stop="20250620160000 +0200" channel="575">
+    <title lang="it">Moto2 : Italian Grand Prix Practice 1</title>
+    <desc lang="it">Moto2 : Italian Grand Prix Practice 1 trasmesso in diretta.</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <programme start="20250620000000 +0200" stop="20250620144500 +0200" channel="878">
+    <title lang="it">Inizierà alle 14:45.</title>
+    <desc lang="it">Tour of Switzerland | Stage 6 Men | Chur - Neuhausen am Rheinfall (186.7 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250620144500 +0200" stop="20250620164500 +0200" channel="878">
+    <title lang="it">Tour of Switzerland | Stage 6 Men | Chur - Neuhausen am Rheinfall (186.7 km)</title>
+    <desc lang="it">Tour of Switzerland | Stage 6 Men | Chur - Neuhausen am Rheinfall (186.7 km) trasmesso in diretta.</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250620000000 +0200" stop="20250620164500 +0200" channel="878">
+    <title lang="it">Inizierà alle 16:45.</title>
+    <desc lang="it">UCI Cross-country Short Track World Cup | Women Elite | Val di Sole.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250620164500 +0200" stop="20250620184500 +0200" channel="878">
+    <title lang="it">UCI Cross-country Short Track World Cup | Women Elite | Val di Sole</title>
+    <desc lang="it">UCI Cross-country Short Track World Cup | Women Elite | Val di Sole trasmesso in diretta.</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250620184500 +0200" stop="20250620191500 +0200" channel="878">
+    <title lang="it">Inizierà alle 19:15.</title>
+    <desc lang="it">League of Nations Jumping | Rotterdam.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250620191500 +0200" stop="20250620211500 +0200" channel="878">
+    <title lang="it">League of Nations Jumping | Rotterdam</title>
+    <desc lang="it">League of Nations Jumping | Rotterdam trasmesso in diretta.</desc>
+    <category lang="it">Equestrian</category>
+  </programme>
+  <programme start="20250620000000 +0200" stop="20250620143000 +0200" channel="877">
+    <title lang="it">Inizierà alle 14:30.</title>
+    <desc lang="it">Nations League Women : Japan W vs Italy W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250620143000 +0200" stop="20250620163000 +0200" channel="877">
+    <title lang="it">Nations League Women : Japan W vs Italy W</title>
+    <desc lang="it">Nations League Women : Japan W vs Italy W trasmesso in diretta.</desc>
+    <category lang="it">Volleyball</category>
   </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250619173300 +0000" stop="20250619180100 +0000">
     <title>FailFactory: Snow Way... Jose</title>
