@@ -5642,6 +5642,16 @@
                         "channel_id": "640"
                     }
                 ]
+            },
+            {
+                "time": "03:00",
+                "event": "AFL : Carlton vs North Melbourne",
+                "channels": [
+                    {
+                        "channel_name": "Fox Soccer Plus",
+                        "channel_id": "756"
+                    }
+                ]
             }
         ],
         "Athletics</span>": [
