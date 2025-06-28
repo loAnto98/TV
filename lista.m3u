@@ -1237,7 +1237,7 @@ https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407/i
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="UEFA Euro U21: Final : Germany U21 vs England U21 (21:00)" tvg-logo="http://logos-download.com/wp-content/uploads/2016/05/Germany_national_football_team_logo_Deutscher_Fussball-Bund.png" group-title="Eventi Live",UEFA Euro U21: Final : Germany U21 vs England U21 (21:00)
+#EXTINF:-1 tvg-id="882" tvg-name="UEFA Euro U21: Final : Germany U21 vs England U21 (21:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAGzhNBffu5vLq5js5T6o3eoXobmSfzhzyxLS_NyS42wxm8Calxf7ii2AI7C32KBAmcH558d1IViNvnAE6OcZXjN2XcwJ1UMVKkdnmE9dW8vKdiKO2goS5VR9DCBYYElwSTUWCl8TwgpiBOVEOkcMQprYa4r7W6SA60isDh__yj6oWWZrBfFIbOIzW/s600/GER.png" group-title="Eventi Live",UEFA Euro U21: Final : Germany U21 vs England U21 (21:00)
 https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
@@ -1255,7 +1255,7 @@ https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream
 #EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Dutch Grand Prix Qualifying (10:00)" tvg-logo="https://prod.r3eassets.com/assets/content/track/circuit-zandvoort-2019-1677-logo-original.png" group-title="Eventi Live",MotoGP : Dutch Grand Prix Qualifying (10:00)
 https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : MSC Cruises Austrian GP - Practice 3 (12:30)" tvg-logo="https://assets.stickpng.com/thumbs/66fe83de0dee7f441775bd09.png" group-title="Eventi Live",Formula 1 : MSC Cruises Austrian GP - Practice 3 (12:30)
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : MSC Cruises Austrian GP - Practice 3 (12:30)" tvg-logo="https://images.seeklogo.com/logo-png/34/2/msc-cruises-logo-png_seeklogo-345395.png" group-title="Eventi Live",Formula 1 : MSC Cruises Austrian GP - Practice 3 (12:30)
 https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
 #EXTINF:-1 tvg-id="575" tvg-name="Moto3 : Dutch Grand Prix Qualifying (13:30)" tvg-logo="https://prod.r3eassets.com/assets/content/track/circuit-zandvoort-2019-1677-logo-original.png" group-title="Eventi Live",Moto3 : Dutch Grand Prix Qualifying (13:30)
@@ -1270,7 +1270,7 @@ https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream
 #EXTINF:-1 tvg-id="575" tvg-name="MotoGP : Dutch Grand Prix Sprint Race (14:45)" tvg-logo="https://prod.r3eassets.com/assets/content/track/circuit-zandvoort-2019-1677-logo-original.png" group-title="Eventi Live",MotoGP : Dutch Grand Prix Sprint Race (14:45)
 https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : MSC Cruises Austrian GP - Qualifying (16:00)" tvg-logo="https://www.pikpng.com/pngl/b/345-3454686_msc-cruises-cruise-ship-cruise-line-text-logo.png" group-title="Eventi Live",Formula 1 : MSC Cruises Austrian GP - Qualifying (16:00)
+#EXTINF:-1 tvg-id="577" tvg-name="Formula 1 : MSC Cruises Austrian GP - Qualifying (16:00)" tvg-logo="https://images.seeklogo.com/logo-png/34/2/msc-cruises-logo-png_seeklogo-345395.png" group-title="Eventi Live",Formula 1 : MSC Cruises Austrian GP - Qualifying (16:00)
 https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
