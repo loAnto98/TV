@@ -28666,16 +28666,6 @@
 <programme start="20250629162400 +0000" stop="20250629170000 +0000" channel="zonadazn.it"><title>Roma</title><desc>Roma</desc></programme>
 <programme start="20250629170000 +0000" stop="20250629230000 +0000" channel="zonadazn.it"><title>LIV Golf League - Stag. 2025 Ep. 3a g. - Dallas</title><desc>Stag. 2025 Ep. 3a g. - Dallas...</desc></programme>
 <programme start="20250629230000 +0000" stop="20250630040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250628000000 +0200" stop="20250628210000 +0200" channel="882">
-    <title lang="it">Inizierà alle 21:00.</title>
-    <desc lang="it">UEFA Euro U21: Final : Germany U21 vs England U21.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250628210000 +0200" stop="20250628230000 +0200" channel="882">
-    <title lang="it">UEFA Euro U21: Final : Germany U21 vs England U21</title>
-    <desc lang="it">UEFA Euro U21: Final : Germany U21 vs England U21 trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250628174700 +0000" stop="20250628181500 +0000">
     <title>FailFactory: Failcation</title>
     <episode-num system="onscreen">S06E611</episode-num>
