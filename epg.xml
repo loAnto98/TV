@@ -26569,26 +26569,6 @@
     <desc lang="it">2025 Wimbledon Championships Early Round Coverage, Day 5 trasmesso in diretta.</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <programme start="20250704000000 +0200" stop="20250704150000 +0200" channel="577">
-    <title lang="it">Inizierà alle 15:00.</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704150000 +0200" stop="20250704170000 +0200" channel="577">
-    <title lang="it">Formula 3 : Qatar Airways British GP - Qualifying</title>
-    <desc lang="it">Formula 3 : Qatar Airways British GP - Qualifying trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704160000 +0200" channel="577">
-    <title lang="it">Inizierà alle 16:00.</title>
-    <desc lang="it">Formula 2 : Qatar Airways British GP - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704160000 +0200" stop="20250704180000 +0200" channel="577">
-    <title lang="it">Formula 2 : Qatar Airways British GP - Qualifying</title>
-    <desc lang="it">Formula 2 : Qatar Airways British GP - Qualifying trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <programme start="20250704000000 +0200" stop="20250704170000 +0200" channel="577">
     <title lang="it">Inizierà alle 17:00.</title>
     <desc lang="it">Formula 1 : Qatar Airways British GP - Practice 2.</desc>
@@ -26598,16 +26578,6 @@
     <title lang="it">Formula 1 : Qatar Airways British GP - Practice 2</title>
     <desc lang="it">Formula 1 : Qatar Airways British GP - Practice 2 trasmesso in diretta.</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250704000000 +0200" stop="20250704153000 +0200" channel="460">
-    <title lang="it">Inizierà alle 15:30.</title>
-    <desc lang="it">World Championship U20 : France U20 vs Wales U20.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250704153000 +0200" stop="20250704173000 +0200" channel="460">
-    <title lang="it">World Championship U20 : France U20 vs Wales U20</title>
-    <desc lang="it">World Championship U20 : France U20 vs Wales U20 trasmesso in diretta.</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
   <programme start="20250704000000 +0200" stop="20250704170000 +0200" channel="882">
     <title lang="it">Inizierà alle 17:00.</title>
