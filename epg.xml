@@ -24588,17 +24588,7 @@
 <programme start="20250709203100 +0000" stop="20250709212000 +0000" channel="zonadazn.it"><title>I consigli del Fenomeno</title><desc>I consigli del Fenomeno</desc></programme>
 <programme start="20250709212000 +0000" stop="20250709230000 +0000" channel="zonadazn.it"><title>Roma</title><desc>Roma</desc></programme>
 <programme start="20250709230000 +0000" stop="20250710040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250708000000 +0200" stop="20250708180000 +0200" channel="882">
-    <title lang="it">Inizierà alle 18:00.</title>
-    <desc lang="it">UEFA Women's Euro : Germany vs Denmark.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250708180000 +0200" stop="20250708200000 +0200" channel="882">
-    <title lang="it">UEFA Women's Euro : Germany vs Denmark</title>
-    <desc lang="it">UEFA Women's Euro : Germany vs Denmark trasmesso in diretta.</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20250708000000 +0200" stop="20250708210000 +0200" channel="15">
+<programme start="20250708000000 +0200" stop="20250708210000 +0200" channel="15">
     <title lang="it">Inizierà alle 21:00.</title>
     <desc lang="it">UEFA Women's Euro : Poland vs Sweden.</desc>
     <category lang="it">Annuncio</category>
