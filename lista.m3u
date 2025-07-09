@@ -1249,10 +1249,10 @@ https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="576" tvg-name="2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="https://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
+#EXTINF:-1 tvg-id="576" tvg-name="2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="http://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
 https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php
 
-#EXTINF:-1 tvg-id="878" tvg-name="2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="http://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
+#EXTINF:-1 tvg-id="878" tvg-name="2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="https://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
 https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-id="879" tvg-name="2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)" tvg-logo="http://assets.stickpng.com/images/626698bc2c88722059d5870d.png" group-title="Eventi Live",2025 Wimbledon Championships Gentlemen,s and Ladies Singles & Doubles Quarter-finals (10:00)
@@ -1267,7 +1267,7 @@ https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="460" tvg-name="World Championship U20 : South Africa U20 vs Scotland U20 (15:30)" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5958.png" group-title="Eventi Live",World Championship U20 : South Africa U20 vs Scotland U20 (15:30)
+#EXTINF:-1 tvg-id="460" tvg-name="World Championship U20 : South Africa U20 vs Scotland U20 (15:30)" tvg-logo="https://www.futbol24.com/upload/team/CAF/South-Africa-U20.png" group-title="Eventi Live",World Championship U20 : South Africa U20 vs Scotland U20 (15:30)
 https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-460.php
 
 #EXTINF:-1 tvg-id="460" tvg-name="World Championship U20 : New Zealand U20 vs Ireland U20 (18:00)" tvg-logo="https://raw.githubusercontent.com/loAnto98/TV/main/logos/New Zealand U20_vs_Ireland U20.png" group-title="Eventi Live",World Championship U20 : New Zealand U20 vs Ireland U20 (18:00)
