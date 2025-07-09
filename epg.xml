@@ -26881,27 +26881,7 @@
     <desc lang="it">FIFA Club World Cup Semi Final 2 : PSG vs Real Madrid trasmesso in diretta.</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20250709000000 +0200" stop="20250709150000 +0200" channel="878">
-    <title lang="it">Inizierà alle 15:00.</title>
-    <desc lang="it">UCI World Tour Stage 3 - Tour de France.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709150000 +0200" stop="20250709170000 +0200" channel="878">
-    <title lang="it">UCI World Tour Stage 3 - Tour de France</title>
-    <desc lang="it">UCI World Tour Stage 3 - Tour de France trasmesso in diretta.</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20250709000000 +0200" stop="20250709153000 +0200" channel="460">
-    <title lang="it">Inizierà alle 15:30.</title>
-    <desc lang="it">World Championship U20 : South Africa U20 vs Scotland U20.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250709153000 +0200" stop="20250709173000 +0200" channel="460">
-    <title lang="it">World Championship U20 : South Africa U20 vs Scotland U20</title>
-    <desc lang="it">World Championship U20 : South Africa U20 vs Scotland U20 trasmesso in diretta.</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <programme start="20250709173000 +0200" stop="20250709180000 +0200" channel="460">
+  <programme start="20250709000000 +0200" stop="20250709180000 +0200" channel="460">
     <title lang="it">Inizierà alle 18:00.</title>
     <desc lang="it">World Championship U20 : New Zealand U20 vs Ireland U20.</desc>
     <category lang="it">Annuncio</category>
