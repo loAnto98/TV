@@ -1273,7 +1273,7 @@ https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream
 #EXTINF:-1 tvg-id="575" tvg-name="MotoGP : German Grand Prix Free Practice 2 (10:00)" tvg-logo="https://static.wikia.nocookie.net/gp2-joey/images/e/e6/Site-logo.png/revision/latest?cb=20231024015103" group-title="Eventi Live",MotoGP : German Grand Prix Free Practice 2 (10:00)
 https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
-#EXTINF:-1 tvg-id="575" tvg-name="Moto3 : German Grand Prix Qualifying (12:45)" tvg-logo="https://cdn.tntsportsbusiness.co.uk/sport-logos/competitions/motorsports/MOTOGP.png" group-title="Eventi Live",Moto3 : German Grand Prix Qualifying (12:45)
+#EXTINF:-1 tvg-id="575" tvg-name="Moto3 : German Grand Prix Qualifying (12:45)" tvg-logo="https://static.wikia.nocookie.net/gp2-joey/images/e/e6/Site-logo.png/revision/latest?cb=20231024015103" group-title="Eventi Live",Moto3 : German Grand Prix Qualifying (12:45)
 https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-575.php
 
 #EXTINF:-1 tvg-id="575" tvg-name="Moto2 : German Grand Prix Qualifying (13:40)" tvg-logo="https://cdn.tntsportsbusiness.co.uk/sport-logos/competitions/motorsports/MOTOGP.png" group-title="Eventi Live",Moto2 : German Grand Prix Qualifying (13:40)
@@ -1291,7 +1291,7 @@ https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream
 #EXTINF:-1 tvg-name="Climbing" group-title="Eventi Live",--- Climbing ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="World Cup | Chamonix Men's & Women's Speed | Final (21:00)" tvg-logo="https://png.pngtree.com/png-vector/20240108/ourmid/pngtree-icc-mens-t20-world-cup-2024-logo-vector-png-image_11201318.png" group-title="Eventi Live",World Cup | Chamonix Men's & Women's Speed | Final (21:00)
+#EXTINF:-1 tvg-id="878" tvg-name="World Cup | Chamonix Men's & Women's Speed | Final (21:00)" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/186908109166669.5fce1390777f0.png" group-title="Eventi Live",World Cup | Chamonix Men's & Women's Speed | Final (21:00)
 https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
