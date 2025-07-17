@@ -7,7 +7,7 @@
                 "channels": [
                     {
                         "channel_name": "FloRacing",
-                        "channel_id": "55"
+                        "channel_id": "109"
                     }
                 ]
             },
@@ -17,7 +17,7 @@
                 "channels": [
                     {
                         "channel_name": "FloRacing",
-                        "channel_id": "59"
+                        "channel_id": "110"
                     }
                 ]
             },
@@ -27,7 +27,7 @@
                 "channels": [
                     {
                         "channel_name": "Event PPV",
-                        "channel_id": "68"
+                        "channel_id": "151"
                     }
                 ]
             },
@@ -37,7 +37,7 @@
                 "channels": [
                     {
                         "channel_name": "FloRacing",
-                        "channel_id": "69"
+                        "channel_id": "152"
                     }
                 ]
             }
