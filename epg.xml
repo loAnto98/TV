@@ -26601,17 +26601,7 @@
 <programme start="20250721214400 +0000" stop="20250721215700 +0000" channel="zonadazn.it"><title>Intervista a Kalulu</title><desc>Un passato in rossonero,...</desc></programme>
 <programme start="20250721215700 +0000" stop="20250721230000 +0000" channel="zonadazn.it"><title>Top 30 Gol - Derby di Roma</title><desc>Derby di Roma - Guarda i 30 gol piu...</desc></programme>
 <programme start="20250721230000 +0000" stop="20250722040000 +0000" channel="zonadazn.it"><title>ZONA DAZN</title><desc>DAZN 1</desc></programme>
-<programme start="20250720000000 +0200" stop="20250720131500 +0200" channel="575">
-    <title lang="it">Inizierà alle 13:15.</title>
-    <desc lang="it">MotoGP : Czech Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250720131500 +0200" stop="20250720151500 +0200" channel="575">
-    <title lang="it">MotoGP : Czech Grand Prix Race</title>
-    <desc lang="it">MotoGP : Czech Grand Prix Race trasmesso in diretta.</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20250720000000 +0200" stop="20250720141000 +0200" channel="879">
+<programme start="20250720000000 +0200" stop="20250720141000 +0200" channel="879">
     <title lang="it">Inizierà alle 14:10.</title>
     <desc lang="it">Basketball 3x3: Summer Universiade - Rhine-Ruhr 2025 medal zone.</desc>
     <category lang="it">Annuncio</category>
@@ -26630,16 +26620,6 @@
     <title lang="it">Nations League : Netherlands vs. Italy</title>
     <desc lang="it">Nations League : Netherlands vs. Italy trasmesso in diretta.</desc>
     <category lang="it">Volleyball</category>
-  </programme>
-  <programme start="20250720000000 +0200" stop="20250720123000 +0200" channel="882">
-    <title lang="it">Inizierà alle 12:30.</title>
-    <desc lang="it">World Aquatics Championships Artistic Swimming: Teams - Freestyle (Final).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250720123000 +0200" stop="20250720143000 +0200" channel="882">
-    <title lang="it">World Aquatics Championships Artistic Swimming: Teams - Freestyle (Final)</title>
-    <desc lang="it">World Aquatics Championships Artistic Swimming: Teams - Freestyle (Final) trasmesso in diretta.</desc>
-    <category lang="it">Water Sports</category>
   </programme>
 <programme channel="608014d19a26320007c92ab6" start="20250720103300 +0000" stop="20250720110100 +0000">
     <title>FailFactory: Survivor</title>
