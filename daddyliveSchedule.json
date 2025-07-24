@@ -1388,7 +1388,7 @@
         ],
         "Tennis ATP - WASHINGTON</span>": [
             {
-                "time": "21:39",
+                "time": "00:12",
                 "event": "ATP - WASHINGTON : Michelsen A. vs Evans D.",
                 "channels": [
                     {
@@ -1398,7 +1398,7 @@
                 ]
             },
             {
-                "time": "21:39",
+                "time": "00:12",
                 "event": "ATP - WASHINGTON : Muller A. vs Moutet C.",
                 "channels": [
                     {
@@ -1592,7 +1592,7 @@
         ],
         "Tennis WTA - WASHINGTON</span>": [
             {
-                "time": "21:39",
+                "time": "00:12",
                 "event": "WTA - WASHINGTON : Williams V. vs Stearns P.",
                 "channels": [
                     {
@@ -2522,10 +2522,10 @@
             },
             {
                 "time": "23:30",
-                "event": "Canadian Elite Basketball League : Ottawa Blackjacks vs Montreal",
+                "event": "Canadian Elite Basketball League : Ottawa Blackjacks vs Montreal Alliance",
                 "channels": [
                     {
-                        "channel_name": "Alliance RDS 2 CA",
+                        "channel_name": "RDS 2 CA",
                         "channel_id": "840"
                     }
                 ]
@@ -3921,6 +3921,74 @@
                     {
                         "channel_name": "Willow Xtra",
                         "channel_id": "598"
+                    }
+                ]
+            }
+        ],
+        "Tennis</span>": [
+            {
+                "time": "09:00",
+                "event": "Courtside - Live Kitzbuhel-ATP & Prague-WTA Day-4",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Channel",
+                        "channel_id": "40"
+                    },
+                    {
+                        "channel_name": "Sky Sports Tennis UK",
+                        "channel_id": "46"
+                    },
+                    {
+                        "channel_name": "TV4 Tennis",
+                        "channel_id": "701"
+                    },
+                    {
+                        "channel_name": "Sport TV3 Portugal",
+                        "channel_id": "454"
+                    },
+                    {
+                        "channel_name": "Sport 5 PLUS Israel",
+                        "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Max Sport 1 Bulgaria",
+                        "channel_id": "472"
+                    },
+                    {
+                        "channel_name": "Max Sport 3 Bulgaria",
+                        "channel_id": "474"
+                    },
+                    {
+                        "channel_name": "Ziggo Sport 1 NL",
+                        "channel_id": "393"
+                    },
+                    {
+                        "channel_name": "Ziggo Sport 4 NL",
+                        "channel_id": "396"
+                    },
+                    {
+                        "channel_name": "Ziggo Sport 5 NL",
+                        "channel_id": "383"
+                    },
+                    {
+                        "channel_name": "beIN Sports 2 Malaysia",
+                        "channel_id": "713"
+                    },
+                    {
+                        "channel_name": "beIN Sports 3 Malaysia",
+                        "channel_id": "714"
+                    },
+                    {
+                        "channel_name": "Sport Klub 2 Croatia",
+                        "channel_id": "102"
+                    },
+                    {
+                        "channel_name": "Sport Klub 1 Croatia",
+                        "channel_id": "101"
+                    },
+                    {
+                        "channel_name": "Sport Klub HD Croatia",
+                        "channel_id": "453"
                     }
                 ]
             }
