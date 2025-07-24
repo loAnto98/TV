@@ -1,5 +1,47 @@
 {
     "Thursday 24th July 2025 - Schedule Time UK GMT": {
+        "PPV Events</span>": [
+            {
+                "time": "22:15",
+                "event": "2025 USAC Indiana Sprint Week at The Dirt Track at IMS",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "2025 Midseason Championships at Thunder Road Speedbowl",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "2025 Southern Nationals at Sugar Creek Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
+                "event": "Jackson Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "76"
+                    }
+                ]
+            }
+        ],
         "TV Shows</span>": [
             {
                 "time": "16:00",
