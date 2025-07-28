@@ -3306,6 +3306,11 @@
                 "time": "17:30",
                 "event": "Challenger - Zug (ELV) : Jakub Paul vs Lukas Klein",
                 "channels": []
+            },
+            {
+                "time": "02:30",
+                "event": "UTR (M) - Lovedale (AUS) : Oliver Welch vs Duncan McCall",
+                "channels": []
             }
         ],
         "Badminton</span>": [
@@ -5709,6 +5714,16 @@
         ],
         "Soccer</span>": [
             {
+                "time": "10:00",
+                "event": "Australia - NPL - South : Beograd Woodville vs Adelaide Comets",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Campionatul U22 AFF : Philippines U23 vs Thailand U23",
+                "channels": []
+            },
+            {
                 "time": "13:30",
                 "event": "Russia - FNL : Ural vs Chernomorets",
                 "channels": [
@@ -5753,6 +5768,21 @@
                         "channel_id": "432"
                     }
                 ]
+            },
+            {
+                "time": "16:00",
+                "event": "Finland - Veikkausliiga : IF Gnistan vs HJK Helsinki",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Estonia - Esiliiga A : Tartu JK Welco Elekter vs Nomme United",
+                "channels": []
+            },
+            {
+                "time": "16:00",
+                "event": "Estonia - Esiliiga A : Viimsi vs Tallinna Kalev U21",
+                "channels": []
             },
             {
                 "time": "17:00",
@@ -5837,6 +5867,16 @@
                         "channel_id": "434"
                     }
                 ]
+            },
+            {
+                "time": "17:00",
+                "event": "Interclub friendly : Almeria vs Al Jazira",
+                "channels": []
+            },
+            {
+                "time": "17:00",
+                "event": "Lithuania - A Lyga : Hegelmann vs Riteriai",
+                "channels": []
             },
             {
                 "time": "18:00",
@@ -5956,6 +5996,11 @@
             },
             {
                 "time": "22:00",
+                "event": "Brazil - Cup Paulista - Gr.3 : Guarani SP vs Primavera SP",
+                "channels": []
+            },
+            {
+                "time": "22:00",
                 "event": "Brasileir\u00e3o S\u00e9rie B : Ava\u00ed vs Botafogo-SP",
                 "channels": [
                     {
@@ -6053,6 +6098,16 @@
                         "channel_id": "368"
                     }
                 ]
+            },
+            {
+                "time": "04:30",
+                "event": "Afghanistan - Shpageeza League : Band-E-amir Dragons vs Boost Defenders",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Afghanistan - Shpageeza League : MIS Ainak Knights vs Speen Ghar Tigers",
+                "channels": []
             }
         ],
         "Tennis</span>": [
@@ -6137,6 +6192,331 @@
                         "channel_id": "101"
                     }
                 ]
+            },
+            {
+                "time": "03:40",
+                "event": "UTR (M) - Lovedale (AUS) : Eric Tripathi vs Charlie Pade",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Challenger - Astana (KAZ) - Qualifiers : Daniel Tazabekov vs Ryotaro Taguchi",
+                "channels": []
+            },
+            {
+                "time": "05:00",
+                "event": "Challenger - Astana (KAZ) - Qualifiers : Dominik Palan vs Bekkhan Atlangeriev",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "Challenger - Astana (KAZ) - Qualifiers : Arda Azkara vs Evgeny Philippov",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "Challenger - Astana (KAZ) - Qualifiers : Maxim Zhukov vs Amir Milushev",
+                "channels": []
+            },
+            {
+                "time": "06:30",
+                "event": "Challenger - Astana (KAZ) - Qualifiers : Sasikumar Mukund vs Zura Tkemaladze",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Budapesta (UNG) : Gergely Madarasz vs Patrik Meszaros",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Budapesta (UNG) : Raffaello Papajcik vs Karel Froemel",
+                "channels": []
+            },
+            {
+                "time": "07:00",
+                "event": "UTR (M) - Monchengladbach (GER) : Serafin Zund vs Filip Horak",
+                "channels": []
+            },
+            {
+                "time": "07:40",
+                "event": "Challenger - Astana (KAZ) - Qualifiers : Taisei Ichikawa vs Uisung Park",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ITF (F) - Cordenons (ITA) - Qualifiers : Federica Urgesi vs Peangtarn Plipuech",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Liberec (CEH) - Qualifiers : Jakub Nicod vs Filip Pieczonka",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "ITF (F) - Cordenons (ITA) - Qualifiers : Laura Mair vs Aneta Laboutkova",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Liberec (CEH) - Qualifiers : Martin Krumich vs Luca Castagnola",
+                "channels": []
+            },
+            {
+                "time": "08:00",
+                "event": "Challenger - Liberec (CEH) - Qualifiers : Yanaki Milev vs Eero Vasa",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (M) - Monchengladbach (GER) : Freek van Donselaar vs Artem Lyapshin",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (M) - Budapesta (UNG) : Juan Bautista Otegui vs Zdenek Derkas",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (M) - Monchengladbach (GER) : Ondrej Hujo vs Kyran Magimay",
+                "channels": []
+            },
+            {
+                "time": "08:10",
+                "event": "UTR (M) - Budapesta (UNG) : Theodore Dean vs Botond Kisantal",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Porto (POR) - Qualifiers : Adria Soriano Barrera vs Marc Polmans",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Hagen (GER) - Qualifiers : Anton Matusevich vs Kirill Kivattsev",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Hagen (GER) - Qualifiers : Gonzalo Villanueva vs Facundo Juarez",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Porto (POR) - Qualifiers : Henry Searle vs Mae Malige",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "Challenger - Hagen (GER) - Qualifiers : Luka Mikrut vs Dali Blanch",
+                "channels": []
+            },
+            {
+                "time": "09:00",
+                "event": "ITF (F) - Cordenons (ITA) - Qualifiers : Susan Bandecchi vs Noemi Maines",
+                "channels": []
+            },
+            {
+                "time": "09:05",
+                "event": "WTA 125 - Varsovia (POL) : Alina Charaeva vs Anastasia Kulikova",
+                "channels": []
+            },
+            {
+                "time": "09:05",
+                "event": "WTA 125 - Varsovia (POL) : Barbora Palicova vs Kyoka Okamura",
+                "channels": []
+            },
+            {
+                "time": "09:05",
+                "event": "WTA 125 - Varsovia (POL) : Mai Hontama vs Weronika Ewald",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Liberec (CEH) - Qualifiers : Milos Karol vs Arthur Reymond",
+                "channels": []
+            },
+            {
+                "time": "09:10",
+                "event": "Challenger - Liberec (CEH) - Qualifiers : Oleg Prihodko vs Sebastian Gima",
+                "channels": []
+            },
+            {
+                "time": "09:30",
+                "event": "Challenger - Astana (KAZ) : Aleksandre Bakshi vs Kokoro Isomura",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Liberec (CEH) - Qualifiers : Alex Molcan vs Mikael Ymer",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Porto (POR) - Qualifiers : Giulio Zeppieri vs Tiago Silva",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Porto (POR) - Qualifiers : Leonardo Rossi vs Maxwell Mckennon",
+                "channels": []
+            },
+            {
+                "time": "10:00",
+                "event": "Challenger - Porto (POR) - Qualifiers : Moez Echargui vs Diogo Marques",
+                "channels": []
+            },
+            {
+                "time": "10:40",
+                "event": "Challenger - Astana (KAZ) : Ricardas Berankis vs Zangar Nurlanuly",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA 125K Warsaw, Poland Women Doubles : H.Dart/M.Lumsden vs M.Skoch/J.Maleckova",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "Challenger - Liberec (CEH) : Patrick Zahraj vs Daniel Michalski",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA 125 - Varsovia (POL) : Polona Hercog vs Victoria Jimenez Kasintseva",
+                "channels": []
+            },
+            {
+                "time": "11:00",
+                "event": "WTA 125 - Varsovia (POL) : Sofia Costoulas vs Martyna Kubka",
+                "channels": []
+            },
+            {
+                "time": "12:20",
+                "event": "Challenger - Porto (POR) : Jie Cui vs Alejandro Moro Canas",
+                "channels": []
+            },
+            {
+                "time": "12:20",
+                "event": "Challenger - Porto (POR) : Radu Albot vs Eliakim Coulibaly",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Challenger - Hagen (GER) : Benjamin Hassan vs Clement Tabur",
+                "channels": []
+            },
+            {
+                "time": "12:30",
+                "event": "Challenger - Hagen (GER) : Jan Choinski vs Lorenzo Giustino",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Porto (POR) : Jaime Faria vs Elias Ymer",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "Challenger - Liberec (CEH) : Jonas Kucera vs Alex Barrena",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA 125 - Varsovia (POL) : Katerina Siniakova vs Lanlana Tararudee",
+                "channels": []
+            },
+            {
+                "time": "13:00",
+                "event": "WTA 125 - Varsovia (POL) : Xinyu Gao vs Tamara Korpatsch",
+                "channels": []
+            },
+            {
+                "time": "13:40",
+                "event": "Challenger - Hagen (GER) : Jerome Kym vs Kimmer Coppejans",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "Challenger - Porto (POR) : Antoine Escoffier vs Daniel Merida Aguilar",
+                "channels": []
+            },
+            {
+                "time": "14:10",
+                "event": "Challenger - Liberec (CEH) - Double : J.Jermar/O.Prihodko vs H.Barton/M.Karol",
+                "channels": []
+            },
+            {
+                "time": "14:30",
+                "event": "ATP - Toronto (CAN) : Colton Smith vs Learner Tien",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - Toronto (CAN) : Ethan Quinn vs Yoshihito Nishioka",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - Toronto (CAN) : Mackenzie McDonald vs David Goffin",
+                "channels": []
+            },
+            {
+                "time": "15:00",
+                "event": "ATP - Toronto (CAN) : Vit Kopriva vs Yunchaokete Bu",
+                "channels": []
+            },
+            {
+                "time": "15:30",
+                "event": "Challenger - Hagen (GER) : Lautaro Midon vs Vilius Gaubas",
+                "channels": []
+            },
+            {
+                "time": "16:10",
+                "event": "ATP - Toronto (CAN) : Aleksandar Vukic vs Pedro Martinez",
+                "channels": []
+            },
+            {
+                "time": "16:10",
+                "event": "ATP - Toronto (CAN) : Mattia Bellucci vs Hugo Gaston",
+                "channels": []
+            },
+            {
+                "time": "16:30",
+                "event": "ATP - Toronto (CAN) : Dan Martin vs Jaume Munar",
+                "channels": []
+            },
+            {
+                "time": "17:20",
+                "event": "ATP - Toronto (CAN) : Francisco Comesana vs Damir Dzumhur",
+                "channels": []
+            },
+            {
+                "time": "17:40",
+                "event": "ATP - Toronto (CAN) : Tristan Schoolkate vs Joao Fonseca",
+                "channels": []
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - Toronto (CAN) : Roberto Carballes Baena vs Camilo Ugo Carabelli",
+                "channels": []
+            },
+            {
+                "time": "21:00",
+                "event": "ATP - Toronto (CAN) : Borna Coric vs Matteo Gigante",
+                "channels": []
+            },
+            {
+                "time": "22:10",
+                "event": "ATP - Toronto (CAN) : Fabian Marozsan vs Hugo Dellien",
+                "channels": []
+            },
+            {
+                "time": "23:00",
+                "event": "ATP - Toronto (CAN) : Liam Draxl vs Pablo Carreno-Busta",
+                "channels": []
             }
         ],
         "Field Hockey</span>": [
@@ -6227,6 +6607,16 @@
                 ]
             },
             {
+                "time": "06:00",
+                "event": "Shanghai Masters : Chris Wakelin vs Zhou Jinhao",
+                "channels": []
+            },
+            {
+                "time": "06:00",
+                "event": "Shanghai Masters : Zhang Anda vs Yuan Sijun Shanghai Masters",
+                "channels": []
+            },
+            {
                 "time": "11:30",
                 "event": "Shanghai Masters Round 1 | Day1 : Neil Robertson vs Pang Junxu",
                 "channels": [
@@ -6267,6 +6657,11 @@
                         "channel_id": "232"
                     }
                 ]
+            },
+            {
+                "time": "11:30",
+                "event": "Shanghai Masters : Neil Robertson vs Pang Junxu Shanghai Masters",
+                "channels": []
             },
             {
                 "time": "17:00",
