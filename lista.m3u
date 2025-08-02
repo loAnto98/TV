@@ -1270,7 +1270,7 @@ https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream
 #EXTINF:-1 tvg-name="Snooker" group-title="Eventi Live",--- Snooker ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="878" tvg-name="Shanghai Masters Round 2 | Day 6 (08:00)" tvg-logo="https://obj.shine.cn/files/2017/09/18/2c6848cd-298d-4495-970e-07868f337966_0.png" group-title="Eventi Live",Shanghai Masters Round 2 | Day 6 (08:00)
+#EXTINF:-1 tvg-id="878" tvg-name="Shanghai Masters Round 2 | Day 6 (08:00)" tvg-logo="https://liquipedia.net/commons/images/thumb/4/4e/VCT_Masters_icon_allmode.png/600px-VCT_Masters_icon_allmode.png" group-title="Eventi Live",Shanghai Masters Round 2 | Day 6 (08:00)
 https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-id="879" tvg-name="Shanghai Masters Round 2 | Day 6 (13:30)" tvg-logo="https://liquipedia.net/commons/images/thumb/4/4e/VCT_Masters_icon_allmode.png/600px-VCT_Masters_icon_allmode.png" group-title="Eventi Live",Shanghai Masters Round 2 | Day 6 (13:30)
@@ -1291,7 +1291,7 @@ https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream
 #EXTINF:-1 tvg-name="Water Sports" group-title="Eventi Live",--- Water Sports ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="Women's 3m Springboard Final (12:00)" tvg-logo="https://www.thesportsdb.com/images/media/player/render/7eq20e1630412032.png" group-title="Eventi Live",Women's 3m Springboard Final (12:00)
+#EXTINF:-1 tvg-id="882" tvg-name="Women's 3m Springboard Final (12:00)" tvg-logo="https://www.thesportsdb.com/images/media/player/render/t4g73a1627220640.png" group-title="Eventi Live",Women's 3m Springboard Final (12:00)
 https://loanto-omg-tvv.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
 
