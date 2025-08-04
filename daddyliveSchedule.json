@@ -1026,7 +1026,12 @@
             {
                 "time": "23:30",
                 "event": "WTA - MONTREAL : Mboko V. vs Bouzas Maneiro J.",
-                "channels": []
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
             }
         ],
         "Tennis</span>": [
